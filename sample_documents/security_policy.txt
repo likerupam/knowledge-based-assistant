@@ -1,0 +1,89 @@
+TECHCORP SECURITY POLICY DOCUMENT
+==================================
+
+Classification: CONFIDENTIAL
+Last Updated: February 2026
+Version: 4.1
+
+1. INFORMATION SECURITY POLICY
+
+Purpose: Establishes information security standards and controls for all TechCorp employees and contractors.
+
+Scope: Applies to all company data, systems, and networks regardless of location or format.
+
+Information Classification:
+
+Level 1 - Public:
+- Marketing materials
+- Published blog posts
+- Public documentation
+
+Level 2 - Internal:
+- Internal memos
+- Process documentation
+- Project plans
+
+Level 3 - Confidential:
+- Financial records
+- Customer data
+- Trade secrets
+
+Level 4 - Restricted:
+- Passwords and encryption keys
+- Personal identification information
+- Executive communications
+
+---
+
+2. ACCESS CONTROL
+
+User Authentication:
+- Strong passwords: minimum 12 characters, uppercase, lowercase, numbers, symbols
+- Multi-factor authentication (MFA) mandatory for all users
+- Account lockout after 5 failed attempts
+
+Authorization:
+- Role-based access control (RBAC) implemented
+- Principle of least privilege enforced
+- Access reviews conducted quarterly
+
+---
+
+3. DATA PROTECTION
+
+Encryption:
+- AES-256 encryption for data at rest
+- TLS 1.3 for data in transit
+- Key rotation every 90 days
+
+Data Retention:
+- Operational data: 7 years
+- Backup data: 1 year
+- Audit logs: 3 years
+
+---
+
+4. INCIDENT MANAGEMENT
+
+Incident Response Team:
+- Chief Information Security Officer (CISO): Sarah Chen
+- Security Operations Center (SOC) Manager: Michael Rodriguez
+- Network Security Lead: Jessica Thompson
+
+Escalation Matrix:
+- Low: Managed by IT Support
+- Medium: Escalated to SOC Manager
+- High: Escalated to CISO
+- Critical: CEO notification required
+
+---
+
+5. COMPLIANCE REQUIREMENTS
+
+Regulatory Compliance:
+- HIPAA: For healthcare-related data
+- GDPR: For European user data
+- SOC 2 Type II: Internal audit framework
+- ISO 27001: Information security management
+
+For security issues, contact: security@techcorp.com

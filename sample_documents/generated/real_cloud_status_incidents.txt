@@ -1,0 +1,212 @@
+REAL CLOUD STATUS INCIDENT DATA
+================================
+
+Fetched At: 2026-05-13 15:35 UTC
+Source APIs: Public Statuspage incident and component APIs
+Purpose: Real operational data for TechCorp-style cloud platform analysis.
+
+CLOUDFLARE INCIDENTS
+--------------------
+
+1. Cache Purging and Cache Rule Update Issues
+Status: resolved
+Impact: major
+Created: 2026-05-13 15:24 UTC
+Resolved: 2026-05-13 15:26 UTC
+Duration: 2 minutes
+Affected Components: CDN Cache Purge, CDN/Cache
+Short Link: https://stspg.io/r37f3bll0bkq
+Latest Update: This incident has been resolved.
+
+2. Increased HTTP 502 Errors in Hong Kong region
+Status: resolved
+Impact: minor
+Created: 2026-05-13 14:49 UTC
+Resolved: 2026-05-13 15:08 UTC
+Duration: 18 minutes
+Affected Components: Network
+Short Link: https://stspg.io/svfywqr850bc
+Latest Update: This incident has been resolved.
+
+3. Errors with Email Sending via the Worker Binding
+Status: identified
+Impact: minor
+Created: 2026-05-13 14:39 UTC
+Resolved: Unknown
+Duration: Ongoing or unknown
+Affected Components: Email Sending
+Short Link: https://stspg.io/hs2ks123xz2x
+Latest Update: The issue has been identified and a fix is being implemented.
+
+4. Increased HTTP 502 Errors in San Jose, CA, United States region
+Status: monitoring
+Impact: minor
+Created: 2026-05-13 14:27 UTC
+Resolved: Unknown
+Duration: Ongoing or unknown
+Affected Components: Network
+Short Link: https://stspg.io/4c2pjwv31z45
+Latest Update: A fix has been implemented and we are monitoring the results.
+
+5. Network Route Leak
+Status: resolved
+Impact: minor
+Created: 2026-05-13 00:57 UTC
+Resolved: 2026-05-13 06:01 UTC
+Duration: 304 minutes
+Affected Components: R2
+Short Link: https://stspg.io/pcn030z2cwrt
+Latest Update: This incident has been resolved.
+
+6. Network Congestion in BKK
+Status: resolved
+Impact: none
+Created: 2026-05-12 16:30 UTC
+Resolved: 2026-05-13 04:30 UTC
+Duration: 720 minutes
+Affected Components: Not listed
+Short Link: https://stspg.io/xfcnl4n33cqj
+Latest Update: Between 04:30 - 04:56 UTC customers reaching Bangkok, Thailand would have experienced an increase of 5xx errors and performance degradation due to congestion.
+
+7. Cloudflare Zero Trust: Gateway Issues
+Status: resolved
+Impact: minor
+Created: 2026-05-12 21:00 UTC
+Resolved: 2026-05-12 21:20 UTC
+Duration: 20 minutes
+Affected Components: Chennai, India - (MAA), Mumbai, India - (BOM), Zero Trust
+Short Link: https://stspg.io/yg5h0ntnb7c9
+Latest Update: This incident has been resolved.
+
+8. Issue accessing the Cloudflare IP ranges page
+Status: resolved
+Impact: minor
+Created: 2026-05-12 19:57 UTC
+Resolved: 2026-05-12 21:17 UTC
+Duration: 79 minutes
+Affected Components: Marketing Site
+Short Link: https://stspg.io/cwdsjqz70lhh
+Latest Update: This incident has been resolved.
+
+9. Network Performance Issues
+Status: resolved
+Impact: minor
+Created: 2026-05-12 19:04 UTC
+Resolved: 2026-05-12 19:48 UTC
+Duration: 44 minutes
+Affected Components: Johannesburg, South Africa - (JNB)
+Short Link: https://stspg.io/0096vdr5bw81
+Latest Update: This incident has been resolved.
+
+10. Durable Objects availability issue
+Status: resolved
+Impact: minor
+Created: 2026-05-12 15:42 UTC
+Resolved: 2026-05-12 17:12 UTC
+Duration: 90 minutes
+Affected Components: Durable Objects, Riyadh, Saudi Arabia - (RUH)
+Short Link: https://stspg.io/hkgr1hlw21m7
+Latest Update: This incident has been resolved.
+
+GITHUB INCIDENTS
+----------------
+
+1. Incident with CodeQL
+Status: monitoring
+Impact: minor
+Created: 2026-05-13 14:41 UTC
+Resolved: Unknown
+Duration: Ongoing or unknown
+Affected Components: Not listed
+Short Link: https://stspg.io/x7dkmf5rx5vx
+Latest Update: CodeQL impact has been mitigated. We are continuing to monitor for durable recovery.
+
+2. Incident with CodeQL, Webhooks, Notifications, and Slack Integration
+Status: resolved
+Impact: minor
+Created: 2026-05-12 14:38 UTC
+Resolved: 2026-05-12 17:43 UTC
+Duration: 185 minutes
+Affected Components: Actions, Webhooks
+Short Link: https://stspg.io/rpk8yxmh6tyd
+Latest Update: This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.
+
+3. Incident with high errors on Git Operations
+Status: resolved
+Impact: minor
+Created: 2026-05-11 14:25 UTC
+Resolved: 2026-05-11 14:33 UTC
+Duration: 8 minutes
+Affected Components: Git Operations
+Short Link: https://stspg.io/wdb70rpb1bqv
+Latest Update: This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.
+
+4. CCR and CCA failing to start for PR comments
+Status: resolved
+Impact: critical
+Created: 2026-05-07 05:02 UTC
+Resolved: 2026-05-07 06:56 UTC
+Duration: 114 minutes
+Affected Components: Not listed
+Short Link: https://stspg.io/3cmg3m4kbtsn
+Latest Update: This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.
+
+5. Incident with Pull Requests
+Status: resolved
+Impact: critical
+Created: 2026-05-06 15:25 UTC
+Resolved: 2026-05-06 19:04 UTC
+Duration: 219 minutes
+Affected Components: Pull Requests
+Short Link: https://stspg.io/dcjk8q4j4660
+Latest Update: On May 6, 2026 between 15:12 and 19:02 UTC creation of new pull request review threads on GitHub.com failed. This included new line comments and file comments on pull requests. Existing PRs and previously created comments were unaffected. <br /><br />This incident was caused by a 32-bit integer key reaching its maximum value in a Vitess lookup table used during PR thread creation. The primary table had been migrated to a 64-bit integer key but the Vitesse lookup table remained 32-bit. Once th...
+
+6. Disruption with some GitHub services
+Status: resolved
+Impact: critical
+Created: 2026-05-06 11:21 UTC
+Resolved: 2026-05-06 11:59 UTC
+Duration: 38 minutes
+Affected Components: Not listed
+Short Link: https://stspg.io/68zqk7hjbzm5
+Latest Update: On May 6, 2026 between 11:02 UTC and 11:13 UTC, users were unable to start or view Copilot Cloud Agent or remote sessions. During this time, requests to the session API returned errors, preventing users from creating new sessions or viewing existing ones. The issue was caused by a configuration change to the service's network routing that inadvertently removed the ingress path for the service. The team reverted the change at 11:13 UTC which restored service. The incident remained open until 1...
+
+7. Incident with Actions, we are investigating reports of degraded availability
+Status: resolved
+Impact: major
+Created: 2026-05-06 07:19 UTC
+Resolved: 2026-05-06 09:44 UTC
+Duration: 145 minutes
+Affected Components: Actions
+Short Link: https://stspg.io/j22b66h0j5xl
+Latest Update: On May 6, 2026, from approximately 06:45 UTC to 09:15 UTC, GitHub Actions Standard Ubuntu hosted runners were degraded. 17.1% of jobs requesting a standard runner failed.<br /><br />This was caused by an unexpected data shape in the allocation configuration data for standard runners. That data was introduced as part of post-incident remediation work for an incident the previous day and caused new allocations to be blocked as load ramped up for the day. Removing that data at 08:51 allowed allo...
+
+8. Increased Latency and Failures for SSH Git Operations
+Status: resolved
+Impact: minor
+Created: 2026-05-05 16:49 UTC
+Resolved: 2026-05-05 18:35 UTC
+Duration: 106 minutes
+Affected Components: Git Operations
+Short Link: https://stspg.io/x8fvngz3t6ck
+Latest Update: Between approximately 14:00 and 16:10 UTC on May 5, 2026, SSH-based Git operations experienced elevated latency and intermittent failures. On average, the error rate was 0.46% and peaked at 0.6% of SSH write requests. HTTP-based Git operations, including web UI and HTTPS clones, were not affected. <br /><br />The impact was caused by reduced SSH capacity at one of our data center sites. During a period of high traffic, the remaining hosts became overloaded, leading to connection exhaustion an...
+
+9. Incident with Actions
+Status: resolved
+Impact: critical
+Created: 2026-05-05 13:37 UTC
+Resolved: 2026-05-05 17:26 UTC
+Duration: 228 minutes
+Affected Components: Actions
+Short Link: https://stspg.io/dbhtfmy83gg4
+Latest Update: On May 5, 2026, from approximately 13:22 UTC to 17:05 UTC, GitHub Actions hosted runners in the East US region were degraded. 13.5% of jobs requesting a standard runner failed and ~16% of requested Larger Runners with private networking pinned to East US failed or were delayed by more than 5 minutes. Copilot Code Review requests were also impacted. Approximately 8,500 code review requests timed out during this window. Affected users saw an error comment on their pull requests and were able to...
+
+10. Incident with Issues and Webhooks
+Status: resolved
+Impact: critical
+Created: 2026-05-04 15:45 UTC
+Resolved: 2026-05-04 16:40 UTC
+Duration: 54 minutes
+Affected Components: Actions, Codespaces, Git Operations, Issues, Packages, Pages, Pull Requests, Webhooks
+Short Link: https://stspg.io/59t64kh1cxkr
+Latest Update: On 2026-05-04 at 3:37:17 PM UTC we detected increased latency on issues resulting in timeouts, and elevated 500 errors on webhooks. A scheduled workload drove high utilization on the primary host of a critical datastore, saturating the connection pool. We paused the job to mitigate the problem at 4:40:05 PM UTC and have implemented measures to prevent recurrence.

@@ -1,0 +1,72 @@
+TECHCORP QUARTERLY EARNINGS REPORT - Q4 2025
+=============================================
+
+Report Date: January 15, 2026
+Fiscal Period: October 1, 2025 - December 31, 2025
+
+EXECUTIVE SUMMARY
+
+TechCorp achieved record quarterly revenue in Q4 2025, demonstrating strong market demand for cloud infrastructure and AI solutions.
+
+KEY METRICS
+
+Revenue: $157.3M (Q4 2025) vs $114.2M (Q4 2024)
+YoY Growth: 37.8%
+Gross Margin: 68.2% (up from 64.1% in Q4 2024)
+Operating Margin: 12.4% (up from 8.7% in Q4 2024)
+EBITDA: $19.5M (up 42% YoY)
+Customer Count: 1,247 (up from 965 in Q4 2024)
+
+REVENUE BREAKDOWN
+
+Cloud Infrastructure: $94.2M (59.9% of revenue)
+- Compute Services: $52.1M
+- Storage Services: $28.4M
+- Networking: $13.7M
+
+AI/ML Services: $48.3M (30.7% of revenue)
+- Model Training: $24.1M
+- Inference Services: $18.2M
+- Data Services: $6.0M
+
+Professional Services: $14.8M (9.4% of revenue)
+- Consulting: $8.5M
+- Training: $4.1M
+
+CUSTOMER METRICS
+
+Enterprise Customers: 487 (up from 312)
+Mid-Market Customers: 543 (up from 456)
+SMB Customers: 217 (up from 197)
+Average Contract Value: $126K (up 12% YoY)
+Customer Retention Rate: 94.2%
+
+TOP CUSTOMERS
+
+1. Global Banking Corp - $2.4M annual contract
+2. Healthcare Systems Inc - $1.9M annual contract
+3. E-commerce Giants Ltd - $1.7M annual contract
+4. Insurance Providers Co - $1.5M annual contract
+5. Manufacturing Leaders - $1.3M annual contract
+
+OPERATING EXPENSES
+
+Salaries and Benefits: $58.2M (37% of revenue)
+Research & Development: $22.1M (14% of revenue)
+Sales & Marketing: $31.4M (20% of revenue)
+General & Administrative: $18.7M (12% of revenue)
+Infrastructure Costs: $8.9M (6% of revenue)
+
+FORWARD GUIDANCE
+
+Q1 2026 Expected Revenue: $165M - $172M
+Full Year 2026 Guidance: $680M - $710M
+Expected YoY Growth: 32-36%
+
+MANAGEMENT COMMENTARY
+
+"TechCorp delivered an exceptional quarter driven by strong demand for cloud and AI solutions. Our market position continues to strengthen, and we are well-positioned for continued growth in 2026."
+- David Martinez, CEO
+
+"Our operational efficiency improvements drove significant margin expansion in Q4. We've optimized our infrastructure costs and improved delivery processes."
+- Patricia Wong, CFO

@@ -1,0 +1,36 @@
+REAL CLOUD STATUS INSIGHTS BRIEF
+================================
+
+Generated At: 2026-05-13 15:35 UTC
+Incidents Analyzed: 20
+Context: These public incidents are useful comparison data for TechCorp Cloud Platform reliability, incident response, customer support, and SLA planning.
+
+EXECUTIVE INSIGHTS
+
+- Incident severity mix: minor=12, critical=5, major=2, none=1.
+- Resolution state mix: resolved=17, monitoring=2, identified=1.
+- Average resolved incident duration: 139.6 minutes across 17 resolved incidents.
+- Most frequently affected components: Actions (4), Git Operations (3), Network (2), Webhooks (2), Pull Requests (2), CDN Cache Purge (1), CDN/Cache (1), Email Sending (1).
+- Active or non-resolved incidents to watch: 3.
+
+LONGEST RESOLVED INCIDENTS
+
+- Cloudflare: Network Congestion in BKK lasted 720 minutes.
+- Cloudflare: Network Route Leak lasted 304 minutes.
+- GitHub: Incident with Actions lasted 228 minutes.
+- GitHub: Incident with Pull Requests lasted 219 minutes.
+- GitHub: Incident with CodeQL, Webhooks, Notifications, and Slack Integration lasted 185 minutes.
+
+TECHCORP KNOWLEDGE BASE CONNECTIONS
+
+- Technical documentation: compare public incident component names with TechCorp compute, storage, networking, CDN, and database layers.
+- Application logs: use these incidents as real examples for detecting customer-visible degradation, slow queries, timeout clusters, and recovery events.
+- Security policy: incident status updates can be reviewed against escalation rules, customer communication timing, and audit-log retention expectations.
+- Quarterly report: recurring provider outages are relevant to gross margin, infrastructure cost, retention risk, and SLA credit exposure.
+
+SUGGESTED QUERIES
+
+- Which cloud components appear most vulnerable based on recent public incidents?
+- How should TechCorp update its incident escalation matrix based on real status data?
+- What operational risks could affect TechCorp customer retention or SLA commitments?
+- Compare the public incident durations with TechCorp's 99.99% uptime target.
